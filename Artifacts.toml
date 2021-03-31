@@ -1,0 +1,390 @@
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "331a788dbf676318728eb6774b15e4ac171ec974"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "4229efdfc997f402dba7e46f6762c4f68684af3e2038dd4d4a466ae12386924a"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "467be080d8ad6055a7d2b04ef2734ae290f88c15"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "e68f6345979da0b06aefef984a9f29e81573c040c1c7433d6fc42ac7184ca0e0"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02eefd0f42610ca5a38baedcb8b819b45c7bec66"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "c0040e213b1a7b83284f660177c15a7b649e8686163be8ff9f98c846f2a661f2"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "88f0299433e88a03ec74867dc6b356935b1e9961"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "a71fa083cb3e42f37768899a605387a067843174f0b64ded9b2c78f933a556b1"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73044bad90afb18cd0567674ce185f4142fcbc95"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "11f8272bc99dcc1c68661c783af95b68e0e8a14dca831fff6e2f7d376723d33f"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a834ab32001f8426345f743b7be67cd74654d942"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "0685dac6ddf19bc8b1106184e22d06137b284082d4c314565041743cf3f9ca34"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590e1d537e417276eea89beaf4fd58a5c95d136a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "1147b84e2309d66496b7a938cf825ccfa1c663a89da9216322f2b2544dd1bd4f"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30cc27385b26d4b0f0af6bd701a45a87a569c607"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "ef902e13af96207e7d0ce8e1a32b0183b429d691a82fc06096342cd682605587"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc01963d29501c7a7038277a8fa41ec355d269ed"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "cea99e40ff1c7092888cc119f3a0c94d0f0e261c2d3bf63fa9f841237e5635ca"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "653bc1ba1e6ef5b8d66ff4d4a19140e1370b8a11"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "48659acb079458f0e1989dde01d4640afb6c6595a50ba3beac1c6748cca5cf78"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6dd525cf4f11715f466d9fac09cb856d5c6fb333"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "2021158308fd095f2500755f9ceb8dbae1217bc0904db5b7feecccd0172a1f48"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff1566e1623d838921782d3a8162c01da9ea6310"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "6cc216fce58b2052684aaf0243f6b86153384d4e020fcc72b65d49e631f62f52"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9213bf850faf26f4de243672db4ec6d368ee20d9"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "cd8bd8b9729d4f0f22cf0b5cb7650c81a41e327bccc884f6e960ed260d8976df"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b47b7dd6efe8ee675042c532f78461662d58190d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "d0e7ed8ebb15afd25c52fc4a1fcca69d1857d15396c0bcab5afd3a11d9ef13ad"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c34c01d776f179c7e2eaeed69ad46c3147e80d4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "538fe7b070e752fe59542620ccbc853436a92e2e464763262a5a2bbf6d3545fe"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db7dc96f6c7b4c00228f0dc456656d75647548da"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "85633dddf2cc76f6f1edd67eaa09bece46e51517f3a555be9bb7ed9071531b08"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae5f1c19cda6431b5c135303697ac2138223cccb"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "47f0fe7e8d80719acb9bbc9b10d4b68ffd64ac62369c05560aee6b923c0b6bf9"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4792597ed5bc97da51253985d62cd3f886239358"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "6d994c1ade44ae55cb253c58a3d0e64448ba61545e34f32d7ca9301b2f9127ba"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36d60f5bae8e1bf959ea6b121f165ae9428abac1"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "e0ee61ccfe5d2b8b6041651cecb4a1a013fe64b4a486716cd29cf4a7233fb3f0"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68937f3d934418dd0a7b06b3b5934651ea94c248"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "f9570f5da13e8ab0b91523c17c7969eb7b633e80a80ed4f0e0a094290da6d2b7"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ef2d11fd9d77736c5897049ab6c9c73d12da2da"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "c4f1d6b626cd28064108d74da9bd75688151c3fcc735b38e4677b40771651242"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b3b8263348e531293d60509632b7d65c49972fc4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "29e622cb9624929ba661660a7d3c843079b2bf70a83215df82b0d8e0d8a697f8"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05e627ad2fed13b0d1d34db962f4c0e38f6e3266"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "9244360ed03b4d9935c063549c94420e60b82fc3108e547f5ea6896a31e285ce"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1728abbc412d3f78f2471c21b99d6e09c58b09af"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "b7c020a78f06e2abb035e2420967b036d59d85e2c1689e9795c3c1787e846454"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+git-tree-sha1 = "550a9aa1ea5f175ad26a6ce2e3e3deb57ce12bfc"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Bonmin.download]]
+    sha256 = "ba5449cffd3b88289b14d2799c7909c9fa6103922b39e4b4f6921a3b89262fea"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+git-tree-sha1 = "8cec7d57c3763ef0319e21c6519161ddc57c9dd7"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Bonmin.download]]
+    sha256 = "547b6418a7050ceb52ec4621babfc3b5e87f1b5e6e5eefc4aa6998910bf84e3e"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+git-tree-sha1 = "9fe8beeacadb89598ae8e0b8e4ae3d53bc4a9344"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Bonmin.download]]
+    sha256 = "fdecf67d675c66bcc4e37aa882f3435e3e7ca1380161808da95f30920562413c"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d646eaff424dbc2008229120457673357187085e"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "0c3d0ce650156b6a4e2e72c7e37159b2e071dfac6898a671b10b199f0c89ad9e"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03d6fccf750c975ff74780657983c0e06e97d0dc"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "b54a91eac992433a4dca0c1528d442f33b644406e5cf0faaca3da3f2467c7101"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48a9b5e2102b73013b15b4943027a025c28d8782"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "80bb8fbaa1534942d23d7945eeb0985a302223cd1d1dd3a572bf8cc3071aabc9"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "caafd4b877337e5bcd50563fb6d4c77fcb89c4c9"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "b4f1c473e284b3c37c9bbcf46c906286e33ab65db9909a40c94de659218eedee"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6bfa2ba2d46e80c5e11ffacf07187e42302e3264"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "d73be1490caa5b1a2fd3e48769888796a0ee63278037d54d0ebc2848aaa383be"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d10bff65e8634770b1ba89a32c48e245e6d7beef"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Bonmin.download]]
+    sha256 = "f4b2c2fc8cce2ad8b314fe6069f62a38688f1abdb4e46cc00f3b4ecdfca0571d"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8db1ad37753da90f5ec47a81659db68f88a7f086"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "723c7884992ec288454c1697c69b70689013f0a18abc091d8eb26604a5cf9ff6"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e61f70edf54f755d5d0c154610ca8d55f018dbb"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "6f4ac9c32425f2899e101f71289d7cb5907a13408c835330164116d853991870"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[Bonmin]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "482b370bdd147e37d886d4c41e9797d8d23c785c"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Bonmin.download]]
+    sha256 = "674d579c7812a0bf222cb9937adc3594607725180cd8ebcf51d981d478506353"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v1.8.8+0/Bonmin.v1.8.8.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
