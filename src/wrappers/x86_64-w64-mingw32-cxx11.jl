@@ -10,16 +10,11 @@ using CoinUtils_jll
 using Ipopt_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Bonmin")
-JLLWrappers.@declare_executable_product(amplexe)
 JLLWrappers.@declare_library_product(libbonmin, "libbonmin-4.dll")
 JLLWrappers.@declare_library_product(libbonminampl, "libbonminampl-4.dll")
+JLLWrappers.@declare_executable_product(amplexe)
 function __init__()
     JLLWrappers.@generate_init_header(ASL_jll, Cbc_jll, Cgl_jll, Clp_jll, Osi_jll, CoinUtils_jll, Ipopt_jll, CompilerSupportLibraries_jll)
-    JLLWrappers.@init_executable_product(
-        amplexe,
-        "bin\\bonmin.exe",
-    )
-
     JLLWrappers.@init_library_product(
         libbonmin,
         "bin\\libbonmin-4.dll",
@@ -30,6 +25,11 @@ function __init__()
         libbonminampl,
         "bin\\libbonminampl-4.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_executable_product(
+        amplexe,
+        "bin\\bonmin.exe",
     )
 
     JLLWrappers.@generate_init_footer()
