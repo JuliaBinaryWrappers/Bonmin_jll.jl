@@ -17,13 +17,13 @@ function __init__()
     JLLWrappers.@generate_init_header(ASL_jll, Cbc_jll, Cgl_jll, Clp_jll, Osi_jll, CoinUtils_jll, Ipopt_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libbonmin,
-        "lib/libbonmin.4.8.8.dylib",
+        "lib/libbonmin.4.8.9.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libbonminampl,
-        "lib/libbonminampl.4.8.8.dylib",
+        "lib/libbonminampl.4.8.9.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
