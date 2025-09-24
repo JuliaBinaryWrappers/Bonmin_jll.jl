@@ -1,148 +1,148 @@
 [[Bonmin]]
 arch = "aarch64"
-git-tree-sha1 = "1008c47ff06713010810696803f95d5b88015296"
+git-tree-sha1 = "d512f6e81009a9204b04302411013340f659e3e1"
 os = "macos"
 
     [[Bonmin.download]]
-    sha256 = "dc17895a410373b58f5d9813032894a8b3ded9c5bed02ffbb34dce142ba14537"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.aarch64-apple-darwin.tar.gz"
+    sha256 = "73c588d16dcdbc8bba852aa2b22c09d68c5ba434a5de62602d20d932fccb1e21"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.aarch64-apple-darwin.tar.gz"
 [[Bonmin]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5f8fe6e9ea03b5147efe9c26fca52b161fb4e21"
+git-tree-sha1 = "d566106b89bc044822851c208f54bbad054dc4b1"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "7a21c2b977fd9b61143192361eca7f7224e0bf690b1c1cb4b99ef05200130cb1"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a64e36b7e1dbffedf6424bd915351818aa958635e6956378978b637b9c2cca92"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.aarch64-linux-gnu-cxx11.tar.gz"
 [[Bonmin]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0013b19647df07e433371ee36baf23563c6ede7a"
+git-tree-sha1 = "d5a1ade332a64fb622ce7fc535c7e76702e1b863"
 libc = "musl"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "9ba534f083f2a7c1a5f8f0e7e6fa21d2de858c35110dca1acac7d15731cac736"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0897a69980ab7f6ec4d4eb0d33acfcde844d99fe2d92e14c11efa93b6851f551"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.aarch64-linux-musl-cxx11.tar.gz"
 [[Bonmin]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9138639025358dd0937e01a2c9ff004ceac93f34"
+git-tree-sha1 = "db75883858db2057348750495a705a1ada07c710"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "ac51eb46d99e747c7877e24af9d1b93a3208d70b336a3197db0ab15530a8e099"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "db275d8106522ff5db32bbfa407cf062bc36e41715c82b27eb28f0f0bed1ef53"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Bonmin]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "42db7a265ca99271e08879e68a8dea0f309af630"
+git-tree-sha1 = "9c9c62bb3a9acf7512f059d05ebea78e35d1502a"
 libc = "musl"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "a3df34966a0310d4d12e2a603ec67995241766f1f7e15b0c68e07376a9b6b1df"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4a67a7a9888050d24504b795e42dfabf6af1a6d8e90059a2d6aea6344bf2c4d4"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Bonmin]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e502cb209322cc5ce1a5f19230e44a3dda1b63b0"
+git-tree-sha1 = "22c4f791a03d8371682b843117fc787f5f098a28"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "570307de91ac051ce7d0d9ec01ef03c12bc4279c523a30b2d979b22453ca0301"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "241e8703272f4a6154f3f91b82f4a62946aa00c829cffa450f41f1da77accc0b"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Bonmin]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db325f33dbba8f3868e244ee0cd9020e544a2ee3"
+git-tree-sha1 = "777ecfbf5388dc4743f1fe723e01527e755c6ede"
 libc = "musl"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "d6dd0a0a3514c809ff7afad2dbce444235c5cdf03dbd5716672359dc024745d1"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5d09a1aa45a3a4383c44328f243b28526008ec446955cda71e3b48db218dfbc6"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Bonmin]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe94c0acde82744eaacbd824aa70e6f63d3732de"
+git-tree-sha1 = "c49446158ac345c6275ed8d0aed4346463262986"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "7ca28ade9278b370a542c0d16fd527f90fbf79566d0d40c53786c535a1c37a32"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "00edbbd4ef6067e4d8a5753fd03bf86953ac81295e7c495e3ef297759c967f74"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.i686-linux-gnu-cxx11.tar.gz"
 [[Bonmin]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "519ec48316d5de8012013f7c332eb4543dca730c"
+git-tree-sha1 = "2da6537d443bb02115179e8115294d367e4cbf4a"
 libc = "musl"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "b7e996ec8b7d5e04f6a028927b7cc2833186cbfbe07b96d3e587113129de183e"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "bd660ae8b87d1c27d59396ea32b124caf6b30e69fbf8f4a9c4737a02196c5c2b"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.i686-linux-musl-cxx11.tar.gz"
 [[Bonmin]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "371ca98316e44be7e533f74d28811030b29febd8"
+git-tree-sha1 = "7b36106eda5336c09f76bdec2c1b7e94286b5293"
 os = "windows"
 
     [[Bonmin.download]]
-    sha256 = "0a9059a4550ee394213302058b2c4fe733052a4f33f28adc7046d5ae14a72335"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "adf81c8e70163085be0428f3b55b8951bbcd3030e1520d95a11a83311e1c3e3e"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.i686-w64-mingw32-cxx11.tar.gz"
 [[Bonmin]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8253ecf8c7d33148b3729949394a00efad034a9"
+git-tree-sha1 = "1d13dc4ebc50c08e16b2f50dc36cfb8100c272e3"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "0d0b0bd6e1749e618976cad06c903b75d64eaa666f96477256e078217a093239"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1d6ecb0f7aa737d47c0d2e67d6fe2f1557a759338ae94190d5e27bf4b4059c8b"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Bonmin]]
 arch = "x86_64"
-git-tree-sha1 = "d71b8536418ffa33bbc5840c35ac6d3283debe05"
+git-tree-sha1 = "de28cd947cd0a7420c26093ae65dab7f02ca5ec4"
 os = "macos"
 
     [[Bonmin.download]]
-    sha256 = "5a27c896159a635d8b97067f8ac3fc8670f4d3ed5bda81844794d2196ac27b65"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.x86_64-apple-darwin.tar.gz"
+    sha256 = "8a2357736249fc7f8e5de7c19a51c2d7d34aa744f13d274fd403a1126ee4d6d4"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.x86_64-apple-darwin.tar.gz"
 [[Bonmin]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e220d049fa0adb6147b25180d2c228c69a65cce"
+git-tree-sha1 = "f0696242e66c4cb46550cc6198c666c41bd451db"
 libc = "glibc"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "050dd9a25c2a69608c565d3687749729ffaccafb4c36e3ee7c1589db09288501"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c1f12da12f8e60356398d5b5d49206c62e29c02078cf263318cff653afd09b7e"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.x86_64-linux-gnu-cxx11.tar.gz"
 [[Bonmin]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "930a49d86ac5eab7df8d81c2befd968e2edf303c"
+git-tree-sha1 = "8a206a29fe1e2b65a69557bcaf6a435bf7015061"
 libc = "musl"
 os = "linux"
 
     [[Bonmin.download]]
-    sha256 = "9b54b80a75267768099679c9af5c1a226adcf6443f5bb3b446109f0f5686292e"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "3cdd671f08e049f88bc14b41311219ebe5fe03862fa02ea69b390e92493e2a6c"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.x86_64-linux-musl-cxx11.tar.gz"
 [[Bonmin]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f15b88ae0e5a58b02a983198530e1240bd60560e"
+git-tree-sha1 = "cf9f599eee4eddcb3ee1aa03e4edd42afd1d930b"
 os = "windows"
 
     [[Bonmin.download]]
-    sha256 = "65b9644eb0baa711f686fdd279c49ba2dc135850140216b47c3e83e4634e68f3"
-    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.901+0/Bonmin.v100.800.901.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "53a05e2194c6df279222b8f3d47fb482b51ad0995e34ef3824ef7cf1d48c5fef"
+    url = "https://github.com/JuliaBinaryWrappers/Bonmin_jll.jl/releases/download/Bonmin-v100.800.902+0/Bonmin.v100.800.902.x86_64-w64-mingw32-cxx11.tar.gz"
